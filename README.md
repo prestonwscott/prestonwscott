@@ -1,5 +1,5 @@
-# Hello you, welcome to my GitHub portfolio 🤓
-Here you will find my professional codebase as well as some of my past work
+# Hello you, welcome to my GitHub portfolio
+Here you will find my personal codebase as well as some of my past work
 ## Reach me by:
 - Email: prestonwscott@outlook.com
 - LinkedIn: https://www.linkedin.com/in/preston-scott-55520a225
