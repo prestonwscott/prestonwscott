@@ -1,4 +1,4 @@
-# Hello you, welcome to my GitHub portfolio
+# Hey you, welcome to my GitHub portfolio!
 Here you will find my personal codebase as well as some of my past work
 ## Reach me by:
 - Email: prestonwscott@outlook.com
